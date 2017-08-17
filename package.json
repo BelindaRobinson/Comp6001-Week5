@@ -1,0 +1,9 @@
+{
+    "name": "week5",
+    "version": "0.0.1",
+    "description": "slideshow",
+    "main": "main.js",
+    "scripts": {
+      "start": "electron ."
+    }
+  }
